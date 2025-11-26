@@ -1,6 +1,6 @@
 const playlistContainer = document.getElementById("playlist-container");
 
-playlists.forEach((playlist) => {
+playlists.forEach((playlist) => 
     const card = document.createElement("div");
     card.classList.add("playlist-card");
 
