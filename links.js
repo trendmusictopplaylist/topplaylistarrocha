@@ -60,7 +60,6 @@ const playlists = [
     link: "https://open.spotify.com/playlist/6QPRmUhRG2qunZjYqKVv7w"
   },
   {
-  {
     title: "As Melhores do HC: Só os Top Hits",
 	description: "Essa é pra quem não abre mão de ouvir apenas as melhores do Heitor Costa! Uma seleção com os maiores sucessos, aquelas músicas que tocam fundo e fazem a galera cantar junto. Se você é fã do HC, vai se apaixonar por cada faixa. Aperte o play e sinta a energia das melhores do sertanejo! 🎶🔥", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7zhifJ4iZ7sMh1eXYQVBaC"
@@ -973,6 +972,7 @@ const playlists = [
 
   // Continue a adicionar mais playlists aqui
 ];
+
 
 
 
