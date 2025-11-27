@@ -861,10 +861,10 @@ const playlists = [
   },
   {
     title: "Sofrência Perfeita — Se Tá Doendo, Aperte o Play ❤️‍🩹🔥",
-	description: "Uma curadoria especial de músicas feitas pra acalmar e machucar ao mesmo tempo. Letras profundas, melodias marcantes e energia de "não tô bem, mas tô indo".", // Descrição da playlist
+	description: "Uma curadoria especial de músicas feitas pra acalmar e machucar ao mesmo tempo. Letras profundas, melodias marcantes e energia de não tô bem, mas tô indo.", // Descrição da playlist
     "link": "https://open.spotify.com/playlist/6XTiVW5GqLfL0xnm6yw1h7"
   },
-{
+  {
     title: "Boteco da Saudade — Hoje a Gente Bebe Pra Esquecer 💔🍺",
 	description: "Arrocha de fossa, seresta de bar e músicas que doem gostoso. Aqui é sofrência raiz pra quem ama demais e recebe de menos. Aperte o play e sinta a saudade apertar.", // Descrição da playlist
     "link": "https://open.spotify.com/playlist/2kGugJ4vTM2oO2OE0qdC7P"
@@ -972,6 +972,7 @@ const playlists = [
 
   // Continue a adicionar mais playlists aqui
 ];
+
 
 
 
