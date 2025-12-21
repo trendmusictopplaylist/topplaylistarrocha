@@ -1084,8 +1084,8 @@ const playlists = [
 	description: "Uma playlist feita pra quem sente demais: sofrência, seresta, boteco, saudade e amor apertado. Aqui cada música bate diferente, cada letra conta uma história e cada gole parece lembrar alguém. Perfeita para noites de lembrança, coração apertado e momentos que só a música entende.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6ZlinX3fIiYDppN9Sf740i"
   },
-     title: "Canto da Dor — Aqui o Amor Grita Alto 🎶💘",
-	description: "Uma playlist feita pra quem sente demais: sofrência, seresta, boteco, saudade e amor apertado. Aqui cada música bate diferente, cada letra conta uma história e cada gole parece lembrar alguém. Perfeita para noites de lembrança, coração apertado e momentos que só a música entende.", // Descrição da playlist
+    title: "Canto da Dor — Aqui o Amor Grita Alto 🎶💘",
+	description: "Uma playlist feita pra quem sente demais sofrência, seresta, boteco, saudade e amor apertado. Aqui cada música bate diferente, cada letra conta uma história e cada gole parece lembrar alguém. Perfeita para noites de lembrança, coração apertado e momentos que só a música entende.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/16pMOqWNbjbqDHXpjCx2NI"
   },
   {
@@ -4767,7 +4767,6 @@ const playlists = [
 
   // Continue a adicionar mais playlists aqui
 ];
-
 
 
 
