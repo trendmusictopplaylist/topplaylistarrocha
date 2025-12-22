@@ -1084,6 +1084,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem sente demais: sofrência, seresta, boteco, saudade e amor apertado. Aqui cada música bate diferente, cada letra conta uma história e cada gole parece lembrar alguém. Perfeita para noites de lembrança, coração apertado e momentos que só a música entende.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6ZlinX3fIiYDppN9Sf740i"
   },
+  {
     title: "Canto da Dor — Aqui o Amor Grita Alto 🎶💘",
 	description: "Uma playlist feita pra quem sente demais sofrência, seresta, boteco, saudade e amor apertado. Aqui cada música bate diferente, cada letra conta uma história e cada gole parece lembrar alguém. Perfeita para noites de lembrança, coração apertado e momentos que só a música entende.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/16pMOqWNbjbqDHXpjCx2NI"
@@ -1098,6 +1099,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem sente demais: sofrência, seresta, boteco, saudade e amor apertado. Aqui cada música bate diferente, cada letra conta uma história e cada gole parece lembrar alguém. Perfeita para noites de lembrança, coração apertado e momentos que só a música entende.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4XzVc6dVKqtqnXcWKZwWd7"
   },
+  {
      title: "Barzinho da Emoção — Coração Machucado Também Dança 💃💔",
 	description: "Uma playlist feita pra quem sente demais: sofrência, seresta, boteco, saudade e amor apertado. Aqui cada música bate diferente, cada letra conta uma história e cada gole parece lembrar alguém. Perfeita para noites de lembrança, coração apertado e momentos que só a música entende.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5oDl9OD2qcIEupMKnr3KXP"
@@ -1112,6 +1114,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem sente demais: sofrência, seresta, boteco, saudade e amor apertado. Aqui cada música bate diferente, cada letra conta uma história e cada gole parece lembrar alguém. Perfeita para noites de lembrança, coração apertado e momentos que só a música entende.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2uVp3JN6YFtYnY1nIRXb0q"
   },
+  {
      title: "Boteco da Sofrência — Hoje é Dia de Beber Pensando Nela 🍻💘",
 	description: "Uma playlist feita pra quem sente demais: sofrência, seresta, boteco, saudade e amor apertado. Aqui cada música bate diferente, cada letra conta uma história e cada gole parece lembrar alguém. Perfeita para noites de lembrança, coração apertado e momentos que só a música entende.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5ZI8U48MPRBbIn5ef3PPaw"
@@ -1141,6 +1144,7 @@ const playlists = [
 	description: "Para noites longas, copos cheios e pensamentos que não vão embora. Atualizada sempre com músicas que falam direto ao peito. Feita pra curar dor com música.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0HBLBgbBKrT2zR3yjbn63C"
   },
+  {
      title: "Canto da Dor — Amor Que Não Vai Embora 🌙",
 	description: "Um espaço musical pra derramar a alma e aliviar o coração. Aqui a mesa vira confessionário e a música vira remédio. Perfeita pra sentir sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0ugVbKTrJkZDuNkM4TeTcJ"
@@ -1155,6 +1159,7 @@ const playlists = [
 	description: "Aqui a sofrência bate forte e a saudade aperta sem pedir licença. Cada canção toca fundo e traz memórias que o coração não esquece. Pra quem ama demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6qExKV7oYcebp2cRG5HrgZ"
   },
+  {
     title: "Barzinho da Saudade — Aqui Ninguém Esconde a Saudade 🌙",
 	description: "Músicas perfeitas pra quem vive, sofre, lembra e ama intensamente. Pra beber pensando em alguém, ou apenas sentir a vibe. Pra quem lembra de quem não deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2NuNUZJML5d9aiOShJZjwQ"
@@ -1169,6 +1174,7 @@ const playlists = [
 	description: "Um espaço musical pra derramar a alma e aliviar o coração. Aqui a mesa vira confessionário e a música vira remédio. Perfeita pra sentir sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6avfl4D6MZGJaXaoN4wuCC"
   },
+  {
     title: "Bar do Coração Partido — Entre Goles e Lembranças 🌙",
 	description: "Uma playlist feita pra quem sente cada letra como se fosse sua própria história. Arrocha, seresta e emoção misturados numa dose perfeita. Ideal pra noites solitárias.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3dNTrRRXl6WhONnGs8EodT"
@@ -1198,6 +1204,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem sente cada letra como se fosse sua própria história. Arrocha, seresta e emoção misturados numa dose perfeita. Ideal pra noites solitárias.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0rH9VoNnIJ2aZKzIp7Oaow"
   },
+  {
     title: "Lembranças & Cerveja — Quando o Amor Machuca 🍺",
 	description: "Aqui a sofrência bate forte e a saudade aperta sem pedir licença. Cada canção toca fundo e traz memórias que o coração não esquece. Pra quem ama demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5ZpTh58IxjgOwQb18ZRqpB"
@@ -1212,6 +1219,7 @@ const playlists = [
 	description: "Para noites longas, copos cheios e pensamentos que não vão embora. Atualizada sempre com músicas que falam direto ao peito. Feita pra curar dor com música.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2HDU2SAwtInOEIhnQqWd9V"
   },
+  {
     title: "Piseiro da Dor — Quando Amar Dói Demais 💘",
 	description: "Um espaço musical pra derramar a alma e aliviar o coração. Aqui a mesa vira confessionário e a música vira remédio. Perfeita pra sentir sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7nEuP5PgDmPBaB5DgYmnJt"
@@ -1226,6 +1234,7 @@ const playlists = [
 	description: "Aqui a sofrência bate forte e a saudade aperta sem pedir licença. Cada canção toca fundo e traz memórias que o coração não esquece. Pra quem ama demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0ijVhiysfJmjui5Lrk3034"
   },
+  {
      title: "Noite da Seresta — Pensando Nela Sem Vergonha 🔥",
 	description: "Músicas perfeitas pra quem vive, sofre, lembra e ama intensamente. Pra beber pensando em alguém, ou apenas sentir a vibe. Pra quem lembra de quem não deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5YORaLMyj0ioa0j3gIqIlP"
@@ -1255,6 +1264,7 @@ const playlists = [
 	description: "Músicas perfeitas pra quem vive, sofre, lembra e ama intensamente. Pra beber pensando em alguém, ou apenas sentir a vibe. Pra quem lembra de quem não deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0yIkOdG96UGMgbmqMqV9hn"
   },
+  {
      title: "Ponto do Amor — Coração Machucado, Copo Cheio 🍺",
 	description: "Para noites longas, copos cheios e pensamentos que não vão embora. Atualizada sempre com músicas que falam direto ao peito. Feita pra curar dor com música.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/530Fvt2WY5gV4cp3b3rpU3"
@@ -1269,6 +1279,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem sente cada letra como se fosse sua própria história. Arrocha, seresta e emoção misturados numa dose perfeita. Ideal pra noites solitárias.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5pY1Tl1k9J2MZBOK4CSbld"
   },
+  {
      title: "Sexta da Saudade — Sofrendo Baixo, Sentindo Alto 🥀",
 	description: "Aqui a sofrência bate forte e a saudade aperta sem pedir licença. Cada canção toca fundo e traz memórias que o coração não esquece. Pra quem ama demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1Udx91ISO9e9gG7cY99Ftg"
@@ -1283,6 +1294,7 @@ const playlists = [
 	description: "Para noites longas, copos cheios e pensamentos que não vão embora. Atualizada sempre com músicas que falam direto ao peito. Feita pra curar dor com música.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6q9j9TJaGYwBSDbYv1aWao"
   },
+  {
     title: "Varanda da Saudade — Romance Que Não Passou 🔥",
 	description: "Um espaço musical pra derramar a alma e aliviar o coração. Aqui a mesa vira confessionário e a música vira remédio. Perfeita pra sentir sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3Eu7xcIYiBOSBt81uVBsEF"
@@ -1312,6 +1324,7 @@ const playlists = [
 	description: "Um espaço musical pra derramar a alma e aliviar o coração. Aqui a mesa vira confessionário e a música vira remédio. Perfeita pra sentir sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2uuJqewqbgQ4lpUxllObiE"
   },
+  {
     title: "Boteco da Sofrência — Hoje a Saudade Fala Mais Alto 🍷",
 	description: "Uma playlist feita pra quem sente cada letra como se fosse sua própria história. Arrocha, seresta e emoção misturados numa dose perfeita. Ideal pra noites solitárias.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/15WFWxXmPAfgnPnNCecYgK"
@@ -1326,6 +1339,7 @@ const playlists = [
 	description: "Músicas perfeitas pra quem vive, sofre, lembra e ama intensamente. Pra beber pensando em alguém, ou apenas sentir a vibe. Pra quem lembra de quem não deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3wTvIR6w06RIs3Qp1YIBXE"
   },
+  {
      title: "Bar do Desabafo — Quando a Dor Aperta 🍻",
 	description: "Para noites longas, copos cheios e pensamentos que não vão embora. Atualizada sempre com músicas que falam direto ao peito. Feita pra curar dor com música.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/53irs6kzHaD723glkChewQ"
@@ -1340,6 +1354,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem sente cada letra como se fosse sua própria história. Arrocha, seresta e emoção misturados numa dose perfeita. Ideal pra noites solitárias.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1PEPkjfwp23Tf59w1fKaWC"
   },
+  {
      title: "Arrocha do Coração — A Voz Trema, O Coração Grita 🍻",
 	description: "Aqui a sofrência bate forte e a saudade aperta sem pedir licença. Cada canção toca fundo e traz memórias que o coração não esquece. Pra quem ama demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3qukRTWVofFEnfmMKnnZ4c"
@@ -1369,6 +1384,7 @@ const playlists = [
 	description: "Aqui a sofrência bate forte e a saudade aperta sem pedir licença. Cada canção toca fundo e traz memórias que o coração não esquece. Pra quem ama demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0qMVXvsBqGiwSMw9WmxIbI"
   },
+  {
      title: "Seresta do Interior — O Amor Ainda Lateja 🍺",
 	description: "Músicas perfeitas pra quem vive, sofre, lembra e ama intensamente. Pra beber pensando em alguém, ou apenas sentir a vibe. Pra quem lembra de quem não deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1EToXFi2nJfTH1F5mQEI6z"
@@ -1383,6 +1399,7 @@ const playlists = [
 	description: "Um espaço musical pra derramar a alma e aliviar o coração. Aqui a mesa vira confessionário e a música vira remédio. Perfeita pra sentir sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0jT6fDPqGetkfZbggFAu5L"
   },
+  {
     title: "Boteco do Amor — Coração Bêbado Não Mente ✨",
 	description: "Uma playlist feita pra quem sente cada letra como se fosse sua própria história. Arrocha, seresta e emoção misturados numa dose perfeita. Ideal pra noites solitárias.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3WWNHccJ52QZfPqRZR2LT7"
@@ -1397,6 +1414,7 @@ const playlists = [
 	description: "Músicas perfeitas pra quem vive, sofre, lembra e ama intensamente. Pra beber pensando em alguém, ou apenas sentir a vibe. Pra quem lembra de quem não deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3IJmR25Sc0lCuOtBhIdV5C"
   },
+  {
      title: "Arrocha Sem Fim — Entre Beijos e Feridas ✨",
 	description: "Para noites longas, copos cheios e pensamentos que não vão embora. Atualizada sempre com músicas que falam direto ao peito. Feita pra curar dor com música.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/72Id2vCgH3WUoRSuNV1kAD"
@@ -1426,6 +1444,7 @@ const playlists = [
 	description: "Para noites longas, copos cheios e pensamentos que não vão embora. Atualizada sempre com músicas que falam direto ao peito. Feita pra curar dor com música.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6glWG6gFasvtmUWvavJlJk"
   },
+  {
      title: "Canto da Dor — Amor Que Não Vai Embora 🍻",
 	description: "Um espaço musical pra derramar a alma e aliviar o coração. Aqui a mesa vira confessionário e a música vira remédio. Perfeita pra sentir sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5WX8A1RMLzUr5XNjv2CnAy"
@@ -1440,6 +1459,7 @@ const playlists = [
 	description: "Aqui a sofrência bate forte e a saudade aperta sem pedir licença. Cada canção toca fundo e traz memórias que o coração não esquece. Pra quem ama demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1EPXdK53FBKuRPv5g88pbk"
   },
+  {
      title: "Barzinho da Saudade — Aqui Ninguém Esconde a Saudade 🎧",
 	description: "Músicas perfeitas pra quem vive, sofre, lembra e ama intensamente. Pra beber pensando em alguém, ou apenas sentir a vibe. Pra quem lembra de quem não deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4gAi5sRprF7meBx902R4Gf"
@@ -1454,6 +1474,7 @@ const playlists = [
 	description: "Um espaço musical pra derramar a alma e aliviar o coração. Aqui a mesa vira confessionário e a música vira remédio. Perfeita pra sentir sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1QIzS5xIcPm7HgyTTLO04b"
   },
+  {
      title: "Bar do Coração Partido — Entre Goles e Lembranças 🍷",
 	description: "Uma playlist feita pra quem sente cada letra como se fosse sua própria história. Arrocha, seresta e emoção misturados numa dose perfeita. Ideal pra noites solitárias.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2YD3TALfP4Q4Y1LzGSDTca"
@@ -1483,6 +1504,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem sente cada letra como se fosse sua própria história. Arrocha, seresta e emoção misturados numa dose perfeita. Ideal pra noites solitárias.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6NyHXGv1tZn92vAco5icrC"
   },
+  {
      title: "Lembranças & Cerveja — Quando o Amor Machuca 😭",
 	description: "Aqui a sofrência bate forte e a saudade aperta sem pedir licença. Cada canção toca fundo e traz memórias que o coração não esquece. Pra quem ama demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4NubZs2jJrhfffxKxSibau"
@@ -1497,6 +1519,7 @@ const playlists = [
 	description: "Para noites longas, copos cheios e pensamentos que não vão embora. Atualizada sempre com músicas que falam direto ao peito. Feita pra curar dor com música.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2y3jkwRrttgdqicxUYGiJp"
   },
+  {
      title: "Piseiro da Dor — Quando Amar Dói Demais 🌙",
 	description: "Um espaço musical pra derramar a alma e aliviar o coração. Aqui a mesa vira confessionário e a música vira remédio. Perfeita pra sentir sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/150Qm3aI9ksLX2qmJ08Frq"
@@ -1511,6 +1534,7 @@ const playlists = [
 	description: "Aqui a sofrência bate forte e a saudade aperta sem pedir licença. Cada canção toca fundo e traz memórias que o coração não esquece. Pra quem ama demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5PjNX6ggBrzk2PwDDpfPxi"
   },
+  {
     title: "Noite da Seresta — Pensando Nela Sem Vergonha 🍻",
 	description: "Músicas perfeitas pra quem vive, sofre, lembra e ama intensamente. Pra beber pensando em alguém, ou apenas sentir a vibe. Pra quem lembra de quem não deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0BavgPdEF8jWVUxjQGAcOH"
@@ -1540,6 +1564,7 @@ const playlists = [
 	description: "Músicas perfeitas pra quem vive, sofre, lembra e ama intensamente. Pra beber pensando em alguém, ou apenas sentir a vibe. Pra quem lembra de quem não deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7lnXD2JWLdFls4SAjJH4En"
   },
+  {
      title: "Ponto do Amor — Coração Machucado, Copo Cheio 💞",
 	description: "Para noites longas, copos cheios e pensamentos que não vão embora. Atualizada sempre com músicas que falam direto ao peito. Feita pra curar dor com música.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5p4POEXwyrL5UihDQUR8cy"
@@ -1554,6 +1579,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem sente cada letra como se fosse sua própria história. Arrocha, seresta e emoção misturados numa dose perfeita. Ideal pra noites solitárias.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6SKGOa1RfwDchIMAFZYDGt"
   },
+  {
      title: "Sexta da Saudade — Sofrendo Baixo, Sentindo Alto 🔥",
 	description: "Aqui a sofrência bate forte e a saudade aperta sem pedir licença. Cada canção toca fundo e traz memórias que o coração não esquece. Pra quem ama demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5uObr5PenqeVWqkFQ1ry0S"
@@ -1568,6 +1594,7 @@ const playlists = [
 	description: "Para noites longas, copos cheios e pensamentos que não vão embora. Atualizada sempre com músicas que falam direto ao peito. Feita pra curar dor com música.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3dgWI6nhjyit9XvjY10kYx"
   },
+  {
     title: "Varanda da Saudade — Romance Que Não Passou 🍻",
 	description: "Um espaço musical pra derramar a alma e aliviar o coração. Aqui a mesa vira confessionário e a música vira remédio. Perfeita pra sentir sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1tyuonMOL0WGTayJ5kk1Y5"
@@ -1597,6 +1624,7 @@ const playlists = [
 	description: "Um espaço musical pra derramar a alma e aliviar o coração. Aqui a mesa vira confessionário e a música vira remédio. Perfeita pra sentir sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/41gPc1kBeXUnUsH4QVewGx"
   },
+  {
      title: "Caverna da Dor — Sentindo O Que Não Devia 🎵",
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1VEiS99pZXR41LcpNht5Pg"
@@ -1611,6 +1639,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6xFSicD9oMxBaf5mryjiyv"
   },
+  {
      title: "Canto da Lembrança — Coração Cansado de Sofrer 🎧",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2fdismVWVCcdrlig34ixh7"
@@ -1625,6 +1654,7 @@ const playlists = [
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Cada música carrega histórias que o coração nunca esqueceu. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1b9iFEPTiNbh0voCeit62g"
   },
+  {
      title: "Luar do Arrocha — Noite Sem Rumo 🎵",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5eDXB8sGoatJHy1VpYLmeA"
@@ -1654,6 +1684,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2lxqUdGy77wHaSx2HCXCkp"
   },
+  {
      title: "Barzinho do Coração — Onde a Dor Aperta Sem Avisar 🌧️",
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1789rorbvBViwxDY1J7pR6"
@@ -1668,6 +1699,7 @@ const playlists = [
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Cada música carrega histórias que o coração nunca esqueceu. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6RviwxguYs5o3IhEfbpU9w"
   },
+  {
      title: "Quintal do Arrocha — Bebendo Sentimentos 💔",
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7m6lKiRkHrvtthVFWqejvl"
@@ -1682,6 +1714,7 @@ const playlists = [
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6SR1NNUkuJVRBJ8L9YO289"
   },
+  {
      title: "Sofrência Infinita — Saudade Que Aperta 🍻",
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Arrocha e seresta se encontram para criar o cenário perfeito da sofrência. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3bW3CynwUw0xgLsyVI8pNL"
@@ -1711,6 +1744,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Cada música carrega histórias que o coração nunca esqueceu. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/37nVjiVA85TC97Ilesb53u"
   },
+  {
      title: "Caverna da Dor — Chorando Sem Vergonha 🍃",
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Cada música carrega histórias que o coração nunca esqueceu. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6UcIgTwx0L75cXMdQDJk9P"
@@ -1725,6 +1759,7 @@ const playlists = [
 	description: "Feita para transformar dor em melodia e saudade em desabafo. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2ojWkFvPtgd9ZKzIHdb6q7"
   },
+  {
      title: "Luar do Arrocha — Coração Cansado de Sofrer 🌫️",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Cada música carrega histórias que o coração nunca esqueceu. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1xnDFwfgwDnpF7cgxlJNjI"
@@ -1739,6 +1774,7 @@ const playlists = [
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Cada música carrega histórias que o coração nunca esqueceu. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0GB4rulVfY192WuXBhI5Z1"
   },
+  {
      title: "Destino do Boteco — Noite Sem Rumo 💔",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Arrocha e seresta se encontram para criar o cenário perfeito da sofrência. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1dkTLA8Tvn8DFu6TC1WLQ9"
@@ -1768,6 +1804,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7frvV0dh1di8z42IzBtbMN"
   },
+  {
      title: "Copo & Saudades — O Peso das Madrugadas 🎵",
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Cada música carrega histórias que o coração nunca esqueceu. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0fWyH8dYE2HGTTQ6tLLM8Y"
@@ -1782,6 +1819,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1W254eKF7KIs09DL70lPwG"
   },
+  {
      title: "Esquina da Saudade — Sentindo O Que Não Devia 🔥",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4z8Ai2LOOORiZA5h9c9c3r"
@@ -1796,6 +1834,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Arrocha e seresta se encontram para criar o cenário perfeito da sofrência. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/79GfOQwZmTJh219yiTGqFL"
   },
+  {
      title: "Mesa da Dor — Chorando Sem Vergonha 🌫️",
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6DTizM7XIJ9q8mTgcD84my"
@@ -1825,6 +1864,7 @@ const playlists = [
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Cada música carrega histórias que o coração nunca esqueceu. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2NEDHcU4ShnWv2MWKjpc3G"
   },
+  {
      title: "Caverna da Dor — Quando Nada Faz Sentido 💔",
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Cada música carrega histórias que o coração nunca esqueceu. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5PcT8GcOh62rhyAaMOHdwb"
@@ -1839,6 +1879,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3IWdhMmwIihMQVtnx9jWrt"
   },
+  {
      title: "Piseiro da Dor — Entre Goles e Lembranças 💘",
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6zY8CzxXJA2domQlfKrREV"
@@ -1853,6 +1894,7 @@ const playlists = [
 	description: "Feita para transformar dor em melodia e saudade em desabafo. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1vDVtGkF28O0WMFFPB5F8b"
   },
+  {
      title: "Varanda da Emoção — Beber Até O Coração Desistir 🎤",
 	description: "Feita para transformar dor em melodia e saudade em desabafo. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4TAtrxHEZUdnnKGPAhINWr"
@@ -1882,6 +1924,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0383DOxIKg1vF02Wn4mcSn"
   },
+  {
      title: "Varanda da Emoção — Beber Até O Coração Desistir ⭐",
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3uxMBXK04622L12xSYw7Mm"
@@ -1896,6 +1939,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6Zm5E6Gt4dSX2uhaGeDoG6"
   },
+  {
      title: "Bar da Memória — Quando Amar Já Não Basta ✨",
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/59dJMqw7zfHeIvfiZifcz6"
@@ -1910,6 +1954,7 @@ const playlists = [
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4LXtVQspxxAc245H9QHYab"
   },
+  {
      title: "Sala da Sofrência — Pensando em Quem Não Esquece 🪩",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Arrocha e seresta se encontram para criar o cenário perfeito da sofrência. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6HW0zmH83DNT0DiOIhJgH4"
@@ -1939,6 +1984,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3BRHgdEm9tWSXmEophUMMU"
   },
+  {
      title: "Luar do Arrocha — Bebendo Sentimentos 💘",
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7Gu0cuComNoCqItAWT9Z6t"
@@ -1953,6 +1999,7 @@ const playlists = [
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/39eT82leL85FWAFOsnnPBu"
   },
+  {
      title: "Sala da Sofrência — Onde a Dor Aperta Sem Avisar 💞",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4J3TCrfej0xnJfC0VRVhrv"
@@ -1967,6 +2014,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Cada música carrega histórias que o coração nunca esqueceu. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/60As9si8dQP4P7Crf3ruRS"
   },
+  {
      title: "Boteco da Madrugada — Saudade Que Aperta 🎵",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0Pu4eE0GSBG2IZHT1XYRv2"
@@ -1996,6 +2044,7 @@ const playlists = [
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Cada música carrega histórias que o coração nunca esqueceu. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0mekxw5M2N0Nn8voda9Ulu"
   },
+  {
      title: "Sala da Sofrência — Pensando em Quem Não Esquece 💔",
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7KUwmdlhKAnzYeTVKp5jRa"
@@ -2010,6 +2059,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/33xtjBEk2XVuYF5Qr4f3pY"
   },
+  {
      title: "Arrocha do Silêncio — No Copo Cerveja, No Peito Saudade 🌙",
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3XMNW8j6goWQrqGAcAXmIV"
@@ -2024,6 +2074,7 @@ const playlists = [
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4adwVONOanQmItm41u0U1H"
   },
+  {
      title: "Refúgio da Sofrência — Chorando Sem Vergonha 🌧️",
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2sxQNyVawSaeBYbfZmWZKh"
@@ -2053,6 +2104,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2JHVd0VsuMmeQEUMEuz0gP"
   },
+  {
      title: "Noite do Arrocha Pesado — Saudade Que Aperta 💔",
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1nLrXrIFKfGygRTacoXb0o"
@@ -2067,6 +2119,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2ZVtNdDF32JK6w97S4kkFx"
   },
+  {
      title: "Luar do Arrocha — Quando Nada Faz Sentido 🎵",
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Arrocha e seresta se encontram para criar o cenário perfeito da sofrência. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1rPwxrj1oe1ImbsKsGlFqn"
@@ -2081,6 +2134,7 @@ const playlists = [
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3GOnTgc0pY3BGkVqLCdQQm"
   },
+  {
      title: "Boteco da Madrugada — Entre Goles e Lembranças 🍷",
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5fqy2h3Il4vOvhAA2EGlpc"
@@ -2110,6 +2164,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Arrocha e seresta se encontram para criar o cenário perfeito da sofrência. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3VkGpphZJHhJd8i4fYUTDY"
   },
+  {
      title: "Noite do Arrocha Pesado — Onde a Música Cura 💘",
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1vyoeCURihNf2RbxT50SvT"
@@ -2124,6 +2179,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2qxk7jcrPqoVRyY84cGPV4"
   },
+  {
      title: "Arrocha do Silêncio — Dor Que Não Passa 🎤",
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5REuLmKcwjT0P05eGMe8Vt"
@@ -2138,6 +2194,7 @@ const playlists = [
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Arrocha e seresta se encontram para criar o cenário perfeito da sofrência. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3o9diRxvgz9V0itubkdYQR"
   },
+  {
      title: "Copo & Saudades — Quando Amar Já Não Basta 🌧️",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Arrocha e seresta se encontram para criar o cenário perfeito da sofrência. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7AAd2R9mGm9qMNv5JuSsKp"
@@ -2167,6 +2224,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Arrocha e seresta se encontram para criar o cenário perfeito da sofrência. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/23GSWmTiRO18Qr0jdwlfO5"
   },
+  {
      title: "Caverna da Dor — Quando Amar Já Não Basta 🍃",
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Arrocha e seresta se encontram para criar o cenário perfeito da sofrência. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5guRz86V5tQSf1SVdxl1km"
@@ -2181,6 +2239,7 @@ const playlists = [
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6YqEAjbkqb7doMpueNdZgX"
   },
+  {
      title: "Bar da Memória — Coração Cansado de Sofrer 🎵",
 	description: "Feita para transformar dor em melodia e saudade em desabafo. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5aXysF471shmFf3OHdplNI"
@@ -2195,6 +2254,7 @@ const playlists = [
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0g0DWsCm8wGgyJbHVODJWF"
   },
+  {
      title: "Bar da Memória — Coração Cansado de Sofrer 🌫️",
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/53cgzHnmEH2IleJYpVSwaK"
@@ -2224,6 +2284,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5qrzSMNO8hDndXbDbjCUZr"
   },
+  {
      title: "Barzinho do Coração — Dor Que Não Passa 🎤",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3gmA7c0EXyYJn0MN4XbL5u"
@@ -2238,6 +2299,7 @@ const playlists = [
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1qneUrGL2VL2t7jfOntjco"
   },
+  {
      title: "Caverna da Dor — Saudade Que Aperta 🎵",
 	description: "Feita para transformar dor em melodia e saudade em desabafo. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/57GQsrLtrfQrleNyORod9N"
@@ -2252,6 +2314,7 @@ const playlists = [
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Cada música carrega histórias que o coração nunca esqueceu. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2Xn20LLSnliyZSDwPLuSgL"
   },
+  {
      title: "Bar da Saudade — Onde a Dor Aperta Sem Avisar 💞",
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3Tii52ypkJhy1FFYcbb82X"
@@ -2281,6 +2344,7 @@ const playlists = [
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6SnkOPb2BLUUrzcvdDmyM3"
   },
+  {
      title: "Noite do Arrocha Pesado — No Copo Cerveja, No Peito Saudade 💘",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1mMl2HGMMElms9Ssh8BotK"
@@ -2295,6 +2359,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5x4wMKTMbYELYcDkV3Hd0S"
   },
+  {
      title: "Noite do Amor Mal Resolvido — Chorando Sem Vergonha 🍃",
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2QnxNcRtqIbS8YO1o90tLd"
@@ -2309,6 +2374,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5XBnVyY2UTEg7X1HoW89ef"
   },
+  {
      title: "Bar da Saudade — Sentindo O Que Não Devia ⭐",
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Cada música carrega histórias que o coração nunca esqueceu. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6Cyr4K5xWDbDiBYbJoyGT6"
@@ -2338,6 +2404,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4imQL2jf0YsTPazkAnYJjF"
   },
+  {
      title: "Sofrência Infinita — Coração Cansado de Sofrer ⭐",
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0u2E3k3xGCrEtginA1ErRR"
@@ -2352,6 +2419,7 @@ const playlists = [
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Cada música carrega histórias que o coração nunca esqueceu. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4wK8wpMSMPeCFDfesSOG2j"
   },
+  {
      title: "Copo da Dor — Beber Até O Coração Desistir 🍃",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1v2w7YLMXhr2fpiYaNJiom"
@@ -2366,6 +2434,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6lPAY2Zr9q2BFFLOBEkc3d"
   },
+  {
      title: "Bar da Memória — Pensando em Quem Não Esquece 🍺",
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Arrocha e seresta se encontram para criar o cenário perfeito da sofrência. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1qfF8D6bqhVVUYWlKTQHML"
@@ -2395,6 +2464,7 @@ const playlists = [
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1YXuqKejUwabDfq5Rg0h9X"
   },
+  {
      title: "Varanda da Emoção — Lembrando de Quem Não Volta 🎤",
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Arrocha e seresta se encontram para criar o cenário perfeito da sofrência. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4PiVtT4bDw5AzBgHqy6LVw"
@@ -2409,6 +2479,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5mQawmKOuiuxAYvBuuN1KH"
   },
+  {
      title: "Destino do Boteco — Coração Cansado de Sofrer 🎶",
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Cada música carrega histórias que o coração nunca esqueceu. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5tzWaMS1YVrvCd7K1HB8oF"
@@ -2423,6 +2494,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Cada música carrega histórias que o coração nunca esqueceu. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/148oUKtkP8ygKkPOLCYgzp"
   },
+  {
      title: "Sala da Sofrência — Dor Que Não Passa 🍾",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4smj7Cs0K8YBkqYABQJqeO"
@@ -2452,6 +2524,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Cada música carrega histórias que o coração nunca esqueceu. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5lH1JIoUE294LE6aYygr6B"
   },
+  {
      title: "Seresta do Sofredor — Beber Até O Coração Desistir 🎵",
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Cada música carrega histórias que o coração nunca esqueceu. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4ReBoSgTDajaJ2FSBQq5A5"
@@ -2466,6 +2539,7 @@ const playlists = [
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0VIdrzf3PRiHcufehMDiuc"
   },
+  {
      title: "Boteco da Madrugada — Onde a Dor Aperta Sem Avisar 😭",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4i1toF5neFvrrB6qTNPPyr"
@@ -2480,6 +2554,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Cada música carrega histórias que o coração nunca esqueceu. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5iN9zoyz4NNRyXFuMUlgpH"
   },
+  {
      title: "Canto da Lembrança — No Copo Cerveja, No Peito Saudade 🍹",
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2B5G8qCHQ9qMwsZSrI7dhC"
@@ -2509,6 +2584,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Cada música carrega histórias que o coração nunca esqueceu. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2EUhUGoSgoWqVp4BkNWU7O"
   },
+  {
      title: "Noite do Amor Mal Resolvido — No Copo Cerveja, No Peito Saudade 🪩",
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4Em1LBcBlgfT7E4pfL7S4O"
@@ -2523,6 +2599,7 @@ const playlists = [
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Cada música carrega histórias que o coração nunca esqueceu. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0f6465Dt19zZPdhJtuTUpw"
   },
+  {
      title: "Boteco da Madrugada — Sentindo O Que Não Devia 🪩",
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/24m0JqODCkdjwR4JQ358UE"
@@ -2537,6 +2614,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Cada música carrega histórias que o coração nunca esqueceu. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3vehwHKaZMuVLUZeOxyqEG"
   },
+  {
      title: "Madrugada da Seresta — Para Dores Que Nem o Tempo Cura 💔",
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Cada música carrega histórias que o coração nunca esqueceu. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7kQRcs1xLSdSbo8u45Gsn1"
@@ -2566,6 +2644,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4wKqXCEIHpL3T81s8wN9mz"
   },
+  {
      title: "Sofrência Infinita — Quando Nada Faz Sentido 🎤",
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Arrocha e seresta se encontram para criar o cenário perfeito da sofrência. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2cHWQblSwOqnaofXauxHxA"
@@ -2580,6 +2659,7 @@ const playlists = [
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Cada música carrega histórias que o coração nunca esqueceu. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0kBJxQT763IUBw6ngcwAsN"
   },
+  {
      title: "Barzinho do Coração — Hoje a Noite Não Acaba 🪩",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3N1clBLQmKkZ8Ayulixxxm"
@@ -2594,6 +2674,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5ZiMDyw8zcE63cCKzCchaw"
   },
+  {
      title: "Sofrência Infinita — Para Dores Que Nem o Tempo Cura 🎵",
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1CKfeTpUdzdLxCKOOmz7Cl"
@@ -2623,6 +2704,7 @@ const playlists = [
 	description: "Feita para transformar dor em melodia e saudade em desabafo. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2ix2QomuDMW6DXwNFgRH3F"
   },
+  {
      title: "Refúgio da Sofrência — Hoje a Noite Não Acaba 🍾",
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Cada música carrega histórias que o coração nunca esqueceu. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4bu6EcUghaLe6zLX9JN9vh"
@@ -2637,6 +2719,7 @@ const playlists = [
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0s6BOiY3LZYTtnJBaXk4E7"
   },
+  {
      title: "Refúgio da Sofrência — Para Dores Que Nem o Tempo Cura 💘",
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4LFNEpUzu83N54NcH8iNkM"
@@ -2651,6 +2734,7 @@ const playlists = [
 	description: "Feita para transformar dor em melodia e saudade em desabafo. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7sGavzEUgTr820GbupDFZy"
   },
+  {
      title: "Canto da Lembrança — Sentindo O Que Não Devia 🎵",
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1h3ANS0KxnL2K5H3YoGixW"
@@ -2680,6 +2764,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Cada música carrega histórias que o coração nunca esqueceu. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/31RVwr7WNCF0CfosxhCUkU"
   },
+  {
      title: "Quintal do Arrocha — Coração Cansado de Sofrer 🍻",
 	description: "Feita para transformar dor em melodia e saudade em desabafo. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3qMotkFPmTjvxdD4J27qXn"
@@ -2694,6 +2779,7 @@ const playlists = [
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3kogumKo0SR18ycuCe7yen"
   },
+  {
      title: "Mesa da Dor — Chorando Sem Vergonha 💘",
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/26dZ7iUSpgZgL0CKE8pgYW"
@@ -2708,6 +2794,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0nILuRBQJNmw8UZbEn51XH"
   },
+  {
      title: "Boteco da Madrugada — Para Dores Que Nem o Tempo Cura 🥀",
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/49Ah6yEYU1wvCKT6PPMQ4P"
@@ -2737,6 +2824,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. Cada música carrega histórias que o coração nunca esqueceu. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7qY74SkH94qW3OlzGtXalr"
   },
+  {
      title: "Seresta do Sofredor — O Peso das Madrugadas ✨",
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Cada música carrega histórias que o coração nunca esqueceu. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0DEySsRoGJ64ytXBMP9CoJ"
@@ -2751,6 +2839,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4YbKsdKkYeDyVvVyAfddLI"
   },
+  {
      title: "Sofrência Infinita — Bebendo Sentimentos 💔",
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Cada música carrega histórias que o coração nunca esqueceu. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1UwkhhdN6603nfLveDlMYI"
@@ -2765,6 +2854,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0ROpON7xC87uoOIrOi2qwv"
   },
+  {
      title: "Noite do Arrocha Pesado — Coração Cansado de Sofrer 🌙",
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1TchPZv0CavlJKbPMmyu7w"
@@ -2794,6 +2884,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3rjEHFRehyH2ewvXkPwQpN"
   },
+  {
      title: "Sofrência de Domingo — Onde a Dor Aperta Sem Avisar 🔥",
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5K7bIaAsTr1o7CptUoRdKF"
@@ -2808,6 +2899,7 @@ const playlists = [
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Cada música carrega histórias que o coração nunca esqueceu. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6GsQdgB1dSjtnDZM7qdRcQ"
   },
+  {
      title: "Bar da Saudade — Noite Sem Rumo 🍾",
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Cada música carrega histórias que o coração nunca esqueceu. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1NKywdAlEfn7ty85CTbrYH"
@@ -2822,6 +2914,7 @@ const playlists = [
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Arrocha e seresta se encontram para criar o cenário perfeito da sofrência. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6mcLlVhU14qiLFyTMRHnd1"
   },
+  {
      title: "Destino do Boteco — Noite Sem Rumo 🌫️",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1P1pBXF3uVidPr88irsbt0"
@@ -2851,6 +2944,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Para aliviar o peito sem medo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3Ddu6tR4F4kIyowFLAdMJ3"
   },
+  {
      title: "Refúgio da Sofrência — Bebendo Sentimentos 🍷",
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Cada música carrega histórias que o coração nunca esqueceu. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3YMeJ12mW6fYn80pJqAAnJ"
@@ -2865,6 +2959,7 @@ const playlists = [
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2EhsLHOaTGXF0q9NF2PHj6"
   },
+  {
      title: "Barzinho do Coração — Aqui a Saudade Grita Alto 🍹",
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Feita para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7ElyH7fz7hqwuSlWF94d4e"
@@ -2879,6 +2974,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1E2O5OgmSZ0g1JuBR5PGbS"
   },
+  {
      title: "Bar da Saudade — O Peso das Madrugadas 🎧",
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1BxAD6p1g7gPK3SKJEcR5b"
@@ -2908,6 +3004,7 @@ const playlists = [
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0uvQqHpgAEpYQUbJeq0P6e"
   },
+  {
      title: "Bar da Memória — Pensando em Quem Não Esquece 💞",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/13gMfX2Te9Ee4psR9GTbCc"
@@ -2922,6 +3019,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive a intensidade do amor e sente cada palavra como um golpe no peito. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4FA6R80gw8bz5dHdfCXh2E"
   },
+  {
      title: "Varanda da Emoção — Aqui a Saudade Grita Alto 🍃",
 	description: "Feita para transformar dor em melodia e saudade em desabafo. Canções que machucam, curam, lembram e libertam ao mesmo tempo. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3dj9WvdeL7iUZzt5wPTI6X"
@@ -2936,6 +3034,7 @@ const playlists = [
 	description: "Canções escolhidas para momentos onde o coração pede um pouco de paz e a mente pede esquecimento. Arrocha e seresta se encontram para criar o cenário perfeito da sofrência. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1GRO2Pe2wbjmBHXiDtjruN"
   },
+  {
      title: "Seresta do Sofredor — Quando Nada Faz Sentido ⭐",
 	description: "Perfeita para noites longas, pensamentos pesados e lembranças que insistem em voltar. Arrocha e seresta se encontram para criar o cenário perfeito da sofrência. Ideal para noites de solidão.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6uJaDpOYQU1r5pug8Hho8v"
@@ -2965,6 +3064,7 @@ const playlists = [
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. É impossível ouvir sem sentir algo, porque tudo aqui foi selecionado para emocionar. Para quem vive o amor intensamente.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1LJT9dx3A5IEXHbcm7qFio"
   },
+  {
      title: "Piseiro da Dor — Dor Que Não Passa 🎶",
 	description: "Para quem ama demais, lembra sem querer e sofre em silêncio enquanto a música fala por você. Aqui cada letra aperta fundo, cada voz arrepia e cada refrão vira desabafo. Perfeita para quem ainda não esqueceu.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2OAfEJEAx4a09UGTjJbO1N"
@@ -2979,6 +3079,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4kZdsir9Iky2ulCS7dUUap"
   },
+  {
      title: "Mesa da Saudade — Bebendo Pra Esquecer 🍺",
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6YJCVsHEMLDybLUZXiYtoT"
@@ -2993,6 +3094,7 @@ const playlists = [
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4yEJCrrHDoZylKuNpUTXvm"
   },
+  {
      title: "Canto da Dor — Amor Que Não Vai Embora 🍺",
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1mUAb1U6lWhZMQXv6qxaj9"
@@ -3022,6 +3124,7 @@ const playlists = [
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5s0YnvYykPGAW9aUuJFaIE"
   },
+  {
      title: "Bar do Coração Partido — Entre Goles e Lembranças 🍹",
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5bM3nQtX6Zy0pf29vZ7Lmy"
@@ -3036,6 +3139,7 @@ const playlists = [
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/70a2ie2H6ZdeML1MLCZ4Dw"
   },
+  {
      title: "Noite de Arrocha — Saudade Apertando Forte 🍷",
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/70a2ie2H6ZdeML1MLCZ4Dw"
@@ -3050,6 +3154,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5yuEG4GUFkNrLzWb7AkdYU"
   },
+  {
      title: "Lembranças & Cerveja — Quando o Amor Machuca ✨",
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6YDIiCjIkfQw59wBRET4ps"
@@ -3079,6 +3184,7 @@ const playlists = [
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7bUfbBWorP91jM9hnGcYBB"
   },
+  {
      title: "Bar do Sofredor — Bebendo Pra Esquecer 😭",
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3CIb83PhEHkaRTotbApmBr"
@@ -3093,6 +3199,7 @@ const playlists = [
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3pCMFpAxMZ2BlJAWEpSMhO"
   },
+  {
      title: "Boteco da Sofrência — Amor Que Não Vai Embora 🔥",
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7g0jPzvNX4ktGCWFfVuwQu"
@@ -3107,6 +3214,7 @@ const playlists = [
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2u8ousEUW38RKgOcLjiwkf"
   },
+  {
      title: "Bar do Desabafo — Aqui Ninguém Esconde a Saudade 🎵",
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7sBK2k3AhTGoXa13lem2Qr"
@@ -3136,6 +3244,7 @@ const playlists = [
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5uRYR0UqNk0DOddxpWATTa"
   },
+  {
      title: "Domingo de Sofrência — Saudade Apertando Forte 😭",
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1es2C80LxoBGcPCeI3TV7T"
@@ -3150,6 +3259,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6UAOWpGQlKKtOm5MxlicZV"
   },
+  {
      title: "Seresta do Interior — Quando o Amor Machuca 🥀",
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5pvhdOPOsSAci3BKWba8nZ"
@@ -3164,6 +3274,7 @@ const playlists = [
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/47FjnJ4Nwkxyww6yDQGc7X"
   },
+  {
      title: "Boteco do Amor — Quando Amar Dói Demais 💞",
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2iE11dsG4XArjtqysHGPrP"
@@ -3193,6 +3304,7 @@ const playlists = [
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1G2z35Vkd1RAugCqhtkxy7"
   },
+  {
      title: "Bar do Sofredor — No Copo É Cerveja, No Peito É Dor 🎧",
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/26sdHlzjJDOnUvy4BNKtyz"
@@ -3207,6 +3319,7 @@ const playlists = [
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/17yQf9uHEBry1TpEQMlUtf"
   },
+  {
      title: "Boteco da Sofrência — Coração Machucado, Copo Cheio 🥀",
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7mfzsvBlIKHTHsNYNLzhLO"
@@ -3221,6 +3334,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2m31LWASvi5TutiylHD7dV"
   },
+  {
      title: "Bar do Desabafo — Sofrendo Baixo, Sentindo Alto 🍺",
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5a0SA58vR92y7F99yH9ugN"
@@ -3250,6 +3364,7 @@ const playlists = [
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/53Qd19sg6IsG94K4oHwskX"
   },
+  {
      title: "Domingo de Sofrência — Segura Essa Dor 🎶",
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2SgJkYL0HSUWKBcLlcWs3s"
@@ -3264,6 +3379,7 @@ const playlists = [
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2vBeikOXghj8vcbjmYRX6l"
   },
+  {
      title: "Seresta do Interior — Hoje a Saudade Fala Mais Alto 💞",
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/75ygT8Z3IyNZ72kQOK1hri"
@@ -3278,6 +3394,7 @@ const playlists = [
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1Z0urV0WKPEnnV17yQ5HGp"
   },
+  {
      title: "Boteco do Amor — Quando a Dor Aperta 🎧",
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4Y2H60wXgwQtaDTPEH9vmC"
@@ -3307,6 +3424,7 @@ const playlists = [
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2boV6bqbmbJEtQVF7pWVHU"
   },
+  {
      title: "Bar do Sofredor — Bebendo e Lembrando 🎶",
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2r8tIqD6Q6Ymj7SNYS7nhD"
@@ -3321,6 +3439,7 @@ const playlists = [
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7w9qAlzY1Gb9YzhypjenFN"
   },
+  {
      title: "Boteco da Sofrência — O Amor Ainda Lateja ✨",
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6kHuTUUfzwk9bDn2XlquWG"
@@ -3335,6 +3454,7 @@ const playlists = [
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3z2s0CXOTIOR2hUHlvRDji"
   },
+  {
      title: "Bar do Desabafo — Coração Bêbado Não Mente 🍻",
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2nyRd07tbD7wTcdL0jBQZh"
@@ -3364,6 +3484,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4bbAxwbYGUMzDDdvTKjM7u"
   },
+  {
      title: "Domingo de Sofrência — Bebendo Pra Esquecer ✨",
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5D5eCKccClQkxBmhCUBciM"
@@ -3378,6 +3499,7 @@ const playlists = [
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/23q8F5liQ6LnnBULdKujYP"
   },
+  {
      title: "Seresta do Interior — Amor Que Não Vai Embora 🎵",
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3jTGrgtMPu98KDTqyUmnaM"
@@ -3392,6 +3514,7 @@ const playlists = [
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0mBAeCPw62HJpjLZn0TmJF"
   },
+  {
      title: "Boteco do Amor — Aqui Ninguém Esconde a Saudade 🎶",
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3hTiwuulpe0OZKaGZiMLtE"
@@ -3421,6 +3544,7 @@ const playlists = [
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5J497P9tA8VxLMomTsY1Dx"
   },
+  {
      title: "Bar do Sofredor — Saudade Apertando Forte 🌙",
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3Z745edfb3vgffa7v5ejCE"
@@ -3435,6 +3559,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6VzsR9VnNk9iAqbdotROUb"
   },
+  {
      title: "Boteco da Sofrência — Quando o Amor Machuca 🍷",
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2YcpNmkel1ByhfGHayBKhD"
@@ -3449,6 +3574,7 @@ const playlists = [
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3YwIG1JwInZwlLbRgLtEKX"
   },
+  {
      title: "Bar do Desabafo — Quando Amar Dói Demais 🍹",
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6Rartju1rdjuHzaGVoc03e"
@@ -3478,6 +3604,7 @@ const playlists = [
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6FV6qmqKFRlLIHPiDkyAm3"
   },
+  {
      title: "Domingo de Sofrência — No Copo É Cerveja, No Peito É Dor 😭",
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2LtUkdSSeMwJwKMfI2bCr8"
@@ -3492,6 +3619,7 @@ const playlists = [
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/01gvJQ12UyZzY3PPndFxfO"
   },
+  {
      title: "Seresta do Interior — Coração Machucado, Copo Cheio 🎧",
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2cZOeMqil5i78zYbDERNEU"
@@ -3506,6 +3634,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5ZhVuRelAuEHobluN2m5Ri"
   },
+  {
      title: "Boteco do Amor — Sofrendo Baixo, Sentindo Alto 🎵",
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0mTlgfqGfmNU8An4hm1674"
@@ -3535,6 +3664,7 @@ const playlists = [
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2B05pB6PJQeRD2dCDs1mJ3"
   },
+  {
      title: "Bar do Sofredor — Segura Essa Dor 🎵",
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5Zr25zeIqlBJy1NZzUnEMe"
@@ -3549,6 +3679,7 @@ const playlists = [
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0gHBmmIvVwbAzDTB2GQ0Gk"
   },
+  {
      title: "Boteco da Sofrência — Hoje a Saudade Fala Mais Alto 🥀",
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3hh3oA2Yttb0XZJBvFOlvr"
@@ -3563,6 +3694,7 @@ const playlists = [
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7G8EAWNwArPi9hPXA9ZQfm"
   },
+  {
      title: "Bar do Desabafo — Quando a Dor Aperta 🎵",
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4pjnjcwuEzkgBF1B6JBdxt"
@@ -3592,6 +3724,7 @@ const playlists = [
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4iOsmuQAZvzYZF3tFUKZTt"
   },
+  {
      title: "Domingo de Sofrência — Bebendo e Lembrando ✨",
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3vChj5CctBaHr2op1BfkXM"
@@ -3606,6 +3739,7 @@ const playlists = [
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7tMxdJSvbMaA1kpS2J5znR"
   },
+  {
      title: "Seresta do Interior — O Amor Ainda Lateja ✨",
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5acbBR1vw6EOF1vZa7LSu8"
@@ -3620,6 +3754,7 @@ const playlists = [
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4fo9jZgEta6ekpV52285Ty"
   },
+  {
      title: "Boteco do Amor — Coração Bêbado Não Mente ✨",
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2zrQHRaGedSAsqhGMOB67e"
@@ -3649,6 +3784,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4JC54zxEgQ3bB0h8ibP97V"
   },
+  {
      title: "Bar do Sofredor — Bebendo Pra Esquecer 🍷",
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6yNfvh51wc0PW7VV9DCjG4"
@@ -3663,6 +3799,7 @@ const playlists = [
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5AlkqNd4jUHsd74zeqwyn7"
   },
+  {
      title: "Boteco da Sofrência — Amor Que Não Vai Embora 🍺",
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4zt88odX9rDP5nIq7RXZTz"
@@ -3677,6 +3814,7 @@ const playlists = [
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3qnplYkEvy9aOFFj9dgMrh"
   },
+  {
      title: "Bar do Desabafo — Aqui Ninguém Esconde a Saudade 🍻",
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2wi3cW7lAd9Ln4bQyeF7rp"
@@ -3706,6 +3844,7 @@ const playlists = [
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5iAUvUPFYiSy7hghNGbAx9"
   },
+  {
      title: "Domingo de Sofrência — Saudade Apertando Forte 💘",
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5ioL7g4ayyNtlzbvCaNpdx"
@@ -3720,6 +3859,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0Xf9EXmsb71L4emEV0EJrc"
   },
+  {
      title: "Seresta do Interior — Quando o Amor Machuca 🎤",
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4xQpb3XUOk8XhlRCE1n1kF"
@@ -3734,6 +3874,7 @@ const playlists = [
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4NqFtzPEqeOvM3R9f6hS9g"
   },
+  {
      title: "Boteco do Amor — Quando Amar Dói Demais 🍻",
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4ZNIPERxUPcVRj259rmo6M"
@@ -3763,6 +3904,7 @@ const playlists = [
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6f0ovE4BdeNTshMicVvD4j"
   },
+  {
      title: "Bar do Sofredor — No Copo É Cerveja, No Peito É Dor 🎤",
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6nayf6IuR9FcOyyNRbK0W3"
@@ -3777,6 +3919,7 @@ const playlists = [
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/17zIMtpw56PQmqiPUMnwhn"
   },
+  {
      title: "Top Henry Freitas — Os Hits Mais Estourados 💥🎶",
 	description: "A seleção definitiva das melhores do Henry Freitas: os hits mais estourados, repertório novo, piseiro pesado e muita energia nordestina. Atualizada sempre pra você ficar por dentro do que tá tocando em todo lugar. 🎤🔥", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4VAZks6LzMrIWCp00U3SKz"
@@ -3791,6 +3934,7 @@ const playlists = [
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7354Os5HkJeLGApstyz5xT"
   },
+  {
      title: "Noite da Seresta — Entre Goles e Lembranças 🍻",
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3dBGSZGpPLAnmNtXBziRci"
@@ -3820,6 +3964,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6jOru63WBHn7axsTVaOdhT"
   },
+  {
      title: "Ponto do Amor — Quando o Amor Machuca 🎵",
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/73oE961wWuQtIWZB6Ou4UW"
@@ -3834,6 +3979,7 @@ const playlists = [
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/74PNpxNNs7X5oLGSZ16Kv3"
   },
+  {
      title: "Sexta da Saudade — Quando Amar Dói Demais 💞",
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/79Q0vKlvDoMPBogH6Yr3Jt"
@@ -3848,6 +3994,7 @@ const playlists = [
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4WWBOffnmBIpG1KI6BoILP"
   },
+  {
      title: "Varanda da Saudade — Pensando Nela Sem Vergonha 🍺",
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4A7ufbPe3sSJL3RzAIXQso"
@@ -3877,6 +4024,7 @@ const playlists = [
 	description: "Para quem ama forte, sofre dobrado e nunca desiste do amor. Pra beber lembrando alguém ou só sentir o peso da saudade. Perfeita para noites de desabafo.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6TXlRnPPcyY3QH0JTXECt5"
   },
+  {
      title: "Arrocha da Madrugada — Coração Machucado, Copo Cheio 🎵",
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7ifBxb5PHLBUovoZ4CND8F"
@@ -3891,6 +4039,7 @@ const playlists = [
 	description: "Uma playlist feita pra quem vive emoções profundas e sente cada verso. Arrocha, seresta e sentimentos misturados em uma dose intensa. Ideal para quem sente demais.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4lubFucTHbn4hq6vegwWLw"
   },
+  {
      title: "Mesa do Desabafo — Sofrendo Baixo, Sentindo Alto 🥀",
 	description: "Aqui a saudade chega primeiro e a sofrência domina sem piedade. Cada canção traz lembranças que o coração insiste em guardar. Pra quem ama e sofre calado.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3HF1YOFxp0ujs6zVKuYYqK"
@@ -3905,6 +4054,7 @@ const playlists = [
 	description: "Perfeita para noites longas onde o coração não encontra descanso. Atualizada sempre com músicas que machucam e curam ao mesmo tempo. Pra quem lembra sem querer.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2vpPHZPdPltBzfV7oN4UHn"
   },
+  {
      title: "Noite da Seresta — Romance Que Não Passou 🖤",
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5kVDpEIUoJRt8blxoIOy7o"
@@ -3934,6 +4084,7 @@ const playlists = [
 	description: "Feita pra quem deixa a música dizer o que a voz não aguenta. Aqui cada refrão vira desabafo e cada verso vira cicatriz. Feita para quem vive o amor do jeito mais intenso.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5gR5pOMfWVyz2jgHtU3mRM"
   },
+  {
      title: "Varanda da Emoção — No Escuro da Saudade 🎶",
 	description: "Aqui a saudade bate mais forte e a lua parece olhar de volta enquanto o coração fala alto. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/23U2LbfbrAbVFtJriVhg7E"
@@ -3948,6 +4099,7 @@ const playlists = [
 	description: "Aqui a saudade bate mais forte e a lua parece olhar de volta enquanto o coração fala alto. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/14LscM5Vt20m3KlnUp2iEd"
   },
+  {
      title: "Madrugada do Boteco — Coração Machucado, Copo Lotado 🎶",
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Aqui a mesa vira palco, a bebida vira coragem e a música vira verdade. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4zjm2ATBH3l4f8VHlqTJpS"
@@ -3962,6 +4114,7 @@ const playlists = [
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0NNPG6heRfinlV5JQFbnIT"
   },
+  {
      title: "Portal da Saudade — Histórias Que Doem e Curam 💞",
 	description: "Aqui a saudade bate mais forte e a lua parece olhar de volta enquanto o coração fala alto. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/568nahQfmuknZkeLqw059s"
@@ -3991,6 +4144,7 @@ const playlists = [
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Ideal para noites de reflexão profunda.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2GwlB7yoLDOI4qg0BdZOPy"
   },
+  {
      title: "Barzinho do Amor Antigo — Quando Nem a Bebida Cura ✨",
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/32JIo7IWi2l9kEyTvzOKyE"
@@ -4005,6 +4159,7 @@ const playlists = [
 	description: "Canções escolhidas a dedo para noites longas e pensamentos que machucam, mas também curam. Aqui a mesa vira palco, a bebida vira coragem e a música vira verdade. Feita para quem ainda não esqueceu e talvez nem queira.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0dDhlH3yzK2CEaB4YhJRyq"
   },
+  {
      title: "Mesa do Coração Ferido — Histórias Que Doem e Curam 🍺",
 	description: "Aqui a saudade bate mais forte e a lua parece olhar de volta enquanto o coração fala alto. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7jLbWbSJ2k9Df94d2GGN3O"
@@ -4019,6 +4174,7 @@ const playlists = [
 	description: "Canções escolhidas a dedo para noites longas e pensamentos que machucam, mas também curam. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0efq2ieM0g4T73DcN77P7E"
   },
+  {
      title: "Caminho da Dor — Quando o Amor Pesa no Peito 🌙",
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/38Vl0wvYMkmtG0Atzeg9tg"
@@ -4048,6 +4204,7 @@ const playlists = [
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6tffI9IhiYlNd6PEsJvcnf"
   },
+  {
      title: "Quintal da Dor — Pra Sofrer Até Amanhecer 🎤",
 	description: "Canções escolhidas a dedo para noites longas e pensamentos que machucam, mas também curam. Aqui a mesa vira palco, a bebida vira coragem e a música vira verdade. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2RGxMYQcsXQMYDSIh2GYM5"
@@ -4062,6 +4219,7 @@ const playlists = [
 	description: "Aqui a saudade bate mais forte e a lua parece olhar de volta enquanto o coração fala alto. Aqui a mesa vira palco, a bebida vira coragem e a música vira verdade. Feita para quem ainda não esqueceu e talvez nem queira.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6pBRY6VPtV6mZwMRwS7nbU"
   },
+  {
      title: "Copa da Dor — Amor Mal Resolvido 🌧️",
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6guI9TfE1iCEAy47wiw6Hp"
@@ -4076,6 +4234,7 @@ const playlists = [
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1mcucJznNsVILPWf9EXXdm"
   },
+  {
      title: "Barzinho do Amor Antigo — Beber Até Esquecer o Nome 💔",
 	description: "Uma playlist feita para quem vive o amor no limite e sente cada verso como se fosse um soco no peito. Aqui a mesa vira palco, a bebida vira coragem e a música vira verdade. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3P9G6zPC6bcakI3EsjNELv"
@@ -4105,6 +4264,7 @@ const playlists = [
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4ptqP4fm2AnNvLh7Ah8jDn"
   },
+  {
      title: "Arrocha Noturno — Beber Até Esquecer o Nome 🍹",
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Ideal para noites de reflexão profunda.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/60ovJDU8lyM7D0V32mM23C"
@@ -4119,6 +4279,7 @@ const playlists = [
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Aqui a mesa vira palco, a bebida vira coragem e a música vira verdade. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7iEQ0wW6S8dctiWRTQARwG"
   },
+  {
      title: "Boteco do Desabafo — Quando o Amor Pesa no Peito ✨",
 	description: "Canções escolhidas a dedo para noites longas e pensamentos que machucam, mas também curam. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Ideal para noites de reflexão profunda.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2hAOYl97krDO8B0la5GvZh"
@@ -4133,6 +4294,7 @@ const playlists = [
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4kC1TGRqVSZ0AbVeBUJtiG"
   },
+  {
      title: "Coração de Boteco — No Escuro da Saudade 🎶",
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Melodias que entendem o que você não consegue dizer em voz alta. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/03Rm8UwrzDpURKYzcLH21v"
@@ -4162,6 +4324,7 @@ const playlists = [
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Melodias que entendem o que você não consegue dizer em voz alta. Ideal para noites de reflexão profunda.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2K4KyitC0OJ1M46exB0csq"
   },
+  {
      title: "Mesa do Sofrimento — Quando Nem a Bebida Cura ⭐",
 	description: "Aqui a saudade bate mais forte e a lua parece olhar de volta enquanto o coração fala alto. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Ideal para noites de reflexão profunda.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5ge9uWGWSHTOjWhoSXYBH5"
@@ -4176,6 +4339,7 @@ const playlists = [
 	description: "Canções escolhidas a dedo para noites longas e pensamentos que machucam, mas também curam. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Feita para quem ainda não esqueceu e talvez nem queira.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7kqjBEMz2f5qQd2JBSbujj"
   },
+  {
      title: "Copo da Saudade — Na Trilha da Dor 🌙",
 	description: "Uma playlist feita para quem vive o amor no limite e sente cada verso como se fosse um soco no peito. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2xlY8ryBj3noimcZPICq5y"
@@ -4190,6 +4354,7 @@ const playlists = [
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0S4boM4sNWl1L4JxA8Uun1"
   },
+  {
      title: "Chuva de Lembranças — Aqui a Saudade Vence 🎶",
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6Vi7bjTgk96Ak3ygeToUEK"
@@ -4219,6 +4384,7 @@ const playlists = [
 	description: "Aqui a saudade bate mais forte e a lua parece olhar de volta enquanto o coração fala alto. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Feita para quem ainda não esqueceu e talvez nem queira.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0JV7Q0Os710RAWEN5Dmj4W"
   },
+  {
      title: "Ponto da Saideira — Bebendo a Dor em Volumes Altos 🎵",
 	description: "Aqui a saudade bate mais forte e a lua parece olhar de volta enquanto o coração fala alto. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6VA50nwJHgu1s2GHZIc8VT"
@@ -4233,6 +4399,7 @@ const playlists = [
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Aqui a mesa vira palco, a bebida vira coragem e a música vira verdade. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/202DV3vaXnOytiq0b7XoqO"
   },
+  {
      title: "Madrugada do Boteco — Quando o Silêncio Aperta 💔",
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6ZI1CUns8QWq8eYYkTO7Yr"
@@ -4247,6 +4414,7 @@ const playlists = [
 	description: "Canções escolhidas a dedo para noites longas e pensamentos que machucam, mas também curam. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0HqZWoEY1NqdGmUunMELjX"
   },
+  {
      title: "Boteco Sem Juízo — Aqui o Coração Não Mente 🎵",
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Melodias que entendem o que você não consegue dizer em voz alta. Ideal para noites de reflexão profunda.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5KrVCrp2a8YWT7vYXeEILv+"
@@ -4276,6 +4444,7 @@ const playlists = [
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/484SvBfjaxupuPJADmrzfA"
   },
+  {
      title: "Ritmo da Saudade — Quando o Silêncio Aperta 🍺",
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Feita para quem ainda não esqueceu e talvez nem queira.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/66WFLYeJ18RXHQQ2RFYxo7"
@@ -4290,6 +4459,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive o amor no limite e sente cada verso como se fosse um soco no peito. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1o4gj5NksyXOdx89mALBuK"
   },
+  {
      title: "Bar Sereno — Histórias Que Doem e Curam 🍹",
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Ideal para noites de reflexão profunda.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1xQmfUmp9mhKTpqyo2X7aA"
@@ -4304,6 +4474,7 @@ const playlists = [
 	description: "Aqui a saudade bate mais forte e a lua parece olhar de volta enquanto o coração fala alto. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2TROjFRcD7I3FYeNcn0ckD"
   },
+  {
      title: "Sala da Lembrança — Quando Nem a Bebida Cura 🍻",
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7LO0M1W1wG9JCDS05syggeVento da Saudade — O Peso da Madrugada 🍹"
@@ -4333,6 +4504,7 @@ const playlists = [
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Melodias que entendem o que você não consegue dizer em voz alta. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2nemPHG9XnbMhR7TPd3EK7"
   },
+  {
      title: "Barzinho do Amor Antigo — Amando Mais do Que Deve 🎶",
 	description: "Canções escolhidas a dedo para noites longas e pensamentos que machucam, mas também curam. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3jdbhavtI4hmVCPG6dTCht"
@@ -4347,6 +4519,7 @@ const playlists = [
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1hW1sE3BCDwNHIuH3S97LN"
   },
+  {
      title: "Boteco da Verdade — Quando o Silêncio Aperta ✨",
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Melodias que entendem o que você não consegue dizer em voz alta. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/37CSna81G69dcCFnXmbb46"
@@ -4361,6 +4534,7 @@ const playlists = [
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0lt81twpjQJFIMTzsw8dav"
   },
+  {
      title: "Boteco da Verdade — Aqui a Saudade Vence 🥀",
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Aqui a mesa vira palco, a bebida vira coragem e a música vira verdade. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7MPQUOusb2sb5Se17m25Za"
@@ -4390,6 +4564,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive o amor no limite e sente cada verso como se fosse um soco no peito. Melodias que entendem o que você não consegue dizer em voz alta. Ideal para noites de reflexão profunda.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5iQKsZhvQxIk3prVmvZDjJ"
   },
+  {
      title: "Refúgio do Arrocha — No Escuro da Saudade 🎤",
 	description: "Uma playlist feita para quem vive o amor no limite e sente cada verso como se fosse um soco no peito. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0LuJP7owJ6nYIrQJM17wbJ"
@@ -4404,6 +4579,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive o amor no limite e sente cada verso como se fosse um soco no peito. Aqui a mesa vira palco, a bebida vira coragem e a música vira verdade. Ideal para noites de reflexão profunda.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5dB62Hdy3lqTJTZG4CfkLM"
   },
+  {
      title: "Boteco do Desabafo — Quando o Silêncio Aperta 💞",
 	description: "Canções escolhidas a dedo para noites longas e pensamentos que machucam, mas também curam. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6dloDpEErJ7WZvah0bBezU"
@@ -4418,6 +4594,7 @@ const playlists = [
 	description: "Os maiores clássicos, os hits de vaquejada e as músicas que colocaram Tarcísio no topo. Uma coletânea completa com as faixas que emocionam, animam e representam o melhor do piseiro e do forró atual. Só pedrada, só qualidade, só as melhores!", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5sROC2qYwMHbQpL0qnM9D9"
   },
+  {
      title: "🔥 Mikael Santos — As Melhores do Cantor 💥🎤",
 	description: "O melhor do repertório de Mikael Santos em uma seleção poderosa: sofrência, piseiro e músicas apaixonadas que não saem da cabeça. Só as mais tocadas, as mais queridas e as que mais emocionam. Sempre atualizada com novidade.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0B7NoK2ufQToXFvEPhSjsZ"
@@ -4447,6 +4624,7 @@ const playlists = [
 	description: "Os sucessos que elevaram Nadson ao topo: hits românticos, sofrência pesada, músicas estouradas e aquela pegada única do Ferinha. Coloque no repeat e sinta. 💔🎶", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0VVIPg9cQiYmKwQVyov6aN"
   },
+  {
      title: "Barzinho do Amor Antigo — Beber Até Esquecer o Nome 🌙",
 	description: "Canções escolhidas a dedo para noites longas e pensamentos que machucam, mas também curam. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Ideal para noites de reflexão profunda.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6v3xPAl1i1pWKRNZWo6mEc"
@@ -4461,6 +4639,7 @@ const playlists = [
 	description: "A voz poderosa da Klessinha em uma seleção com seus maiores sucessos. Romantismo, forrozão e aquela pegada marcante que só ela tem. Atualizada sempre! 💘✨", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6hO1Wfz9KMWe6SJIxhF1lf"
   },
+  {
      title: "🎧 J.Eskine — Só As Melhores",
 	description: "Uma seleção especial das faixas mais marcantes de J.Eskine, reunindo energia, identidade e o peso do talento que só ele tem. Hits, favoritos do público e músicas que não podem faltar em nenhuma playlist. Aperte o play e deixe o ritmo falar mais alto. 🎶🔥", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2yWSCgZVbHHPXAyVqdwuUz"
@@ -4475,6 +4654,7 @@ const playlists = [
 	description: "Canções escolhidas a dedo para noites longas e pensamentos que machucam, mas também curam. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Ideal para noites de reflexão profunda.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4t1Vh4cTpppbnfyqJDrYaO"
   },
+  {
      title: "Chuva de Lembranças — Entre Risos e Feridas 💞",
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3pKOGwR0Xzq55Qp1mW9oTL"
@@ -4504,6 +4684,7 @@ const playlists = [
 	description: "Uma seleção especial reunindo os maiores sucessos, hits estourados e as músicas que marcaram a trajetória do Kaelzinho. Aqui só entra pedrada, só as mais tocadas e as faixas que fizeram história. Aperte o play e sinta a vibe! 🔥🎶", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4waklgX4q1ol8h1a9cWsPd"
   },
+  {
      title: "Unha Pintada — Só as Melhores 🔥🎶",
 	description: "Uma seleção especial com os maiores sucessos do Unha Pintada: romantismo, sofrência, voz marcante e aquele sentimento que só ele entrega. As melhores para ouvir lembrando, vivendo e sentindo cada letra. Atualizada sempre! ❤️‍🔥", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4057i3zrDCLfiOdMH1Y74S"
@@ -4518,6 +4699,7 @@ const playlists = [
 	description: "A seleção definitiva do M10 com os maiores sucessos, letras marcantes e aquele clima de paredão que só ele entrega. Perfeita pra quem quer ouvir só hit, só pedrada e só o que realmente toca no coração. Atualizada sempre com as mais tocadas! 🔥🎶💥", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0KaSIiUubCmYP5oVoxnbJe"
   },
+  {
      title: "Vento da Saudade — Entre Um Gole e Uma Lembrança 🍺",
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1mbsj02keHfNU3XAscI6ey"
@@ -4532,6 +4714,7 @@ const playlists = [
 	description: "Canções escolhidas a dedo para noites longas e pensamentos que machucam, mas também curam. Melodias que entendem o que você não consegue dizer em voz alta. Feita para quem ainda não esqueceu e talvez nem queira.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0D8W0ARkmQb44aIKyqLAl7"
   },
+  {
      title: "Refúgio do Arrocha — Bebendo a Dor em Volumes Altos 💘",
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5fUP4pW2BvDboP2vGP33kn"
@@ -4561,6 +4744,7 @@ const playlists = [
 	description: "Uma playlist feita para quem vive o amor no limite e sente cada verso como se fosse um soco no peito. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2TPJgGVM4BLkasTKt3vfqt"
   },
+  {
      title: "Bar do Último Gole — Bebendo a Dor em Volumes Altos 🔥",
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0swYPURVBQhrNWwIH1YW4G"
@@ -4575,6 +4759,7 @@ const playlists = [
 	description: "Aqui a saudade bate mais forte e a lua parece olhar de volta enquanto o coração fala alto. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6OdtbEpXUlJMC1D1HJ1sco"
   },
+  {
      title: "Mesa do Sofrimento — Quando Nem a Bebida Cura 🍹",
 	description: "Uma playlist feita para quem vive o amor no limite e sente cada verso como se fosse um soco no peito. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/60XDD7iGbAM6d7URLi98YI"
@@ -4589,6 +4774,7 @@ const playlists = [
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1kLES6mrVNquFIwpD2MUk0"
   },
+  {
      title: "Bar do Último Gole — Onde a Dor Senta na Mesa 🍃",
 	description: "Canções escolhidas a dedo para noites longas e pensamentos que machucam, mas também curam. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4W86WnQbgRn8tLpYsaiD9S"
@@ -4618,6 +4804,7 @@ const playlists = [
 	description: "Aqui a saudade bate mais forte e a lua parece olhar de volta enquanto o coração fala alto. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/76eV9VUreyQVtaBv2beESO"
   },
+  {
      title: "Luar da Saudade — Amor Mal Resolvido 🍹",
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Feita para quem ainda não esqueceu e talvez nem queira.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6JIpMe5ZCukb52xnCNSNvw"
@@ -4632,6 +4819,7 @@ const playlists = [
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Feita para quem ainda não esqueceu e talvez nem queira.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4cqQP7UP4VKz8Zmj4ieroF"
   },
+  {
      title: "Luz da Seresta — Amando Mais do Que Deve 🍻",
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1APulndmnOaX8SGxLuFqm9"
@@ -4646,6 +4834,7 @@ const playlists = [
 	description: "Uma seleção feita especialmente pra quem vive na estrada e não larga a bregadeira por nada. Só as melhores, as mais tocadas e as que seguram a madrugada inteira no volante. Música pra acompanhar cada km, cada lembrança e cada saudade que bate forte na boleia. Atualizada sempre! 🎶🛣️", // Descrição da playlist
     link: "https://open.spotify.com/playlist/5DkOT5LGoz5iD3rgmA24jL"
   },
+  {
      title: "Noite do Coração Bêbado — Amando Mais do Que Deve 🌙",
 	description: "Uma playlist feita para quem vive o amor no limite e sente cada verso como se fosse um soco no peito. Melodias que entendem o que você não consegue dizer em voz alta. Feita para quem ainda não esqueceu e talvez nem queira.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/70V8gDgQHzQnw4Eps5ekby"
@@ -4675,6 +4864,7 @@ const playlists = [
 	description: "Canções escolhidas a dedo para noites longas e pensamentos que machucam, mas também curam. Cada música traz um pedaço de lembrança que o coração insiste em guardar. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/4sv7C9xKe3nTMVdlXzmzg8"
   },
+  {
      title: "Piseiro das Músicas Tristes — Amor Mal Resolvido 🎶",
 	description: "Canções escolhidas a dedo para noites longas e pensamentos que machucam, mas também curam. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Para quem vive o amor com intensidade e cicatrizes.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/7fwhl0pW6EuLbvf6oHJ0ze"
@@ -4689,6 +4879,7 @@ const playlists = [
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6xewJrtyV8UAQnDvJd1g6y"
   },
+  {
      title: "Piseiro das Músicas Tristes — Quando Nem a Bebida Cura 🍃",
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2czUAyWdaF10VLsJJAkBn4"
@@ -4703,6 +4894,7 @@ const playlists = [
 	description: "Canções escolhidas a dedo para noites longas e pensamentos que machucam, mas também curam. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0TMVuCKxtHuDDO5qDaxqhl"
   },
+  {
      title: "Sofrência de Mesa — Bebendo a Dor em Volumes Altos 💔",
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/2C2ED3dmpORtUY80atvLUS"
@@ -4732,6 +4924,7 @@ const playlists = [
 	description: "Aqui a saudade bate mais forte e a lua parece olhar de volta enquanto o coração fala alto. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Ideal para noites de reflexão profunda.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/0HHpeIsI1lVUgJaTgd3Mif"
   },
+  {
      title: "Bar do Abraço Partindo — Amor Mal Resolvido 🔥",
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Feita para quem ainda não esqueceu e talvez nem queira.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/3fw44vOHUuttPjDx4oSh9g"
@@ -4746,6 +4939,7 @@ const playlists = [
 	description: "Feita para quem ama, sofre, lembra e insiste em sentir, mesmo quando tudo pede para esquecer. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/10UxXpwmpm8rXQWGhCwhjL"
   },
+  {
      title: "Bar da Lágrima — Entre Um Gole e Uma Lembrança 💘",
 	description: "Uma playlist feita para quem vive o amor no limite e sente cada verso como se fosse um soco no peito. Canções que apertam o peito e aliviam a alma ao mesmo tempo. Perfeita para quem sente mais do que deveria.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/1sKjjpqWWRacL1l0zSpHCI"
@@ -4760,6 +4954,7 @@ const playlists = [
 	description: "Perfeita para quem transforma dor em música e encontra consolo no último gole. Arrocha, seresta e emoção se misturam e criam um cenário perfeito para o desabafo. Para quem ama sem freio e sofre em silêncio.", // Descrição da playlist
     link: "https://open.spotify.com/playlist/55MYwgqslFoT1W008F9kXT"
   },
+  {
      title: "🎧 Natanzinho — As Top do Momento 🔥💘",
 	description: "Uma seleção com os maiores sucessos do Natanzinho, reunindo hits estourados, romantismo moderno e aquele swing apaixonado que domina o Brasil. As mais tocadas, as mais pedidas e as que fazem qualquer coração acelerar. Aperte o play e sinta a vibe! 🎶🔥💘", // Descrição da playlist
     link: "https://open.spotify.com/playlist/6xQ2L7JQzsyEzxlkkHY2oP"
@@ -4767,7 +4962,6 @@ const playlists = [
 
   // Continue a adicionar mais playlists aqui
 ];
-
 
 
 
